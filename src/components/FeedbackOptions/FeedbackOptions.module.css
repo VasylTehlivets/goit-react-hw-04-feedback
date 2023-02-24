@@ -1,0 +1,22 @@
+.wrap {
+    margin-left: 20px;
+}
+
+.btn {
+    background-color: rgb(214, 212, 212);
+    color: black;
+    cursor: pointer;
+    border: none;
+    width: 60px;
+    margin-left: 20px;
+    padding: 6px;
+    border-radius: 10px;
+    transition-duration: 300ms;
+    text-transform: capitalize;
+}
+
+.btn:hover {
+    background-color: rgb(108, 141, 179);
+    color: white;
+    transform: scale(1.15);
+}
